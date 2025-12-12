@@ -35,4 +35,4 @@ run({
   },
   trimTestInputs: true,
   onlyTests: false,
-});
+},"./src/day__/input.txt");
